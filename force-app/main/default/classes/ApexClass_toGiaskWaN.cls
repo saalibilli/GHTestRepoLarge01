@@ -1,0 +1,1 @@
+public class ApexClass_toGiaskWaN { public void m1_K5gK11eQ9L() { System.debug('Hello, World!');} public void m2_oFV2tv6JWe() { System.debug('Hello, World!');} public void m3_EBUIG4qZgq() { System.debug('Hello, World!');}}
