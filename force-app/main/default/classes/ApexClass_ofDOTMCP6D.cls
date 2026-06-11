@@ -1,0 +1,1 @@
+public class ApexClass_ofDOTMCP6D { public void m1_Ox4H5RucvF() { System.debug('Hello, World!');} public void m2_l9m8dyN2xo() { System.debug('Hello, World!');} public void m3_8T1gfdhn3K() { System.debug('Hello, World!');}}
