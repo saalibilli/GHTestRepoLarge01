@@ -1,0 +1,1 @@
+public class ApexClass_SCOTRuvply { public void m1_oVbQPTkL9t() { System.debug('Hello, World!');} public void m2_xHH648MsfR() { System.debug('Hello, World!');} public void m3_lxIQqqAdA6() { System.debug('Hello, World!');}}
