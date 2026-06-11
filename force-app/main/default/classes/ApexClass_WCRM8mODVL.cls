@@ -1,0 +1,1 @@
+public class ApexClass_WCRM8mODVL { public void m1_pXxnYee4fc() { System.debug('Hello, World!');} public void m2_bPYSsjmKDZ() { System.debug('Hello, World!');} public void m3_1aySCfSDhe() { System.debug('Hello, World!');}}
