@@ -1,0 +1,1 @@
+public class ApexClass_RsFFuthmyo { public void m1_dGoO9w553B() { System.debug('Hello, World!');} public void m2_lniAsfRdyO() { System.debug('Hello, World!');} public void m3_qrYt1xb5W0() { System.debug('Hello, World!');}}
