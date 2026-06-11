@@ -1,0 +1,1 @@
+public class ApexClass_KNBuSmlGox { public void m1_Tou4zd4gwL() { System.debug('Hello, World!');} public void m2_ntt2C9iZTB() { System.debug('Hello, World!');} public void m3_fkziKM8OzP() { System.debug('Hello, World!');}}
