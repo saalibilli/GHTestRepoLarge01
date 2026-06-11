@@ -1,0 +1,1 @@
+public class ApexClass_MPyBPkwscy { public void m1_run60MCU31() { System.debug('Hello, World!');} public void m2_pGHQVTcpfM() { System.debug('Hello, World!');} public void m3_lReYzXGliG() { System.debug('Hello, World!');}}
