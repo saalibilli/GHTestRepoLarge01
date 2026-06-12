@@ -1,0 +1,1 @@
+public class ApexClass_GNNBENeMv8 { public void m1_xgfZ1fTKfp() { System.debug('Hello, World!');} public void m2_H0E1Tkctxf() { System.debug('Hello, World!');} public void m3_Scu0d030hj() { System.debug('Hello, World!');}}

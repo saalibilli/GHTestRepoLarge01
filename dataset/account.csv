@@ -69,3 +69,13 @@ Id,BillingCity,BillingCountry,BillingState,Industry,Name,Phone
 001T700001j2SpRIAU,Austin,US,TX,Technology,MDD_72yJp3eY_Acct_008,555-0008
 001T700001j2SpSIAU,Seattle,US,WA,Technology,MDD_72yJp3eY_Acct_009,555-0009
 001T700001j2SpTIAU,San Francisco,US,CA,Technology,MDD_72yJp3eY_Acct_010,555-0010
+001T700001j2wp9IAA,New York,US,NY,Technology,MDD_SGmssiiR_Acct_001,555-0001
+001T700001j2wpAIAQ,Chicago,US,IL,Technology,MDD_SGmssiiR_Acct_002,555-0002
+001T700001j2wpBIAQ,Austin,US,TX,Technology,MDD_SGmssiiR_Acct_003,555-0003
+001T700001j2wpCIAQ,Seattle,US,WA,Technology,MDD_SGmssiiR_Acct_004,555-0004
+001T700001j2wpDIAQ,San Francisco,US,CA,Technology,MDD_SGmssiiR_Acct_005,555-0005
+001T700001j2wpEIAQ,New York,US,NY,Technology,MDD_SGmssiiR_Acct_006,555-0006
+001T700001j2wpFIAQ,Chicago,US,IL,Technology,MDD_SGmssiiR_Acct_007,555-0007
+001T700001j2wpGIAQ,Austin,US,TX,Technology,MDD_SGmssiiR_Acct_008,555-0008
+001T700001j2wpHIAQ,Seattle,US,WA,Technology,MDD_SGmssiiR_Acct_009,555-0009
+001T700001j2wpIIAQ,San Francisco,US,CA,Technology,MDD_SGmssiiR_Acct_010,555-0010
