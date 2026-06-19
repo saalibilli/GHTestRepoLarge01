@@ -1,0 +1,1 @@
+public class ApexClass_ogiUECcaid { public void m1_qTlkO5P0wH() { System.debug('Hello, World!');} public void m2_Cc4r3nwR3X() { System.debug('Hello, World!');} public void m3_9pxiwmRQ4X() { System.debug('Hello, World!');}}
