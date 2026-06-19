@@ -1,0 +1,1 @@
+public class ApexClass_BTARLvSLwm { public void m1_ql2FJetb5y() { System.debug('Hello, World!');} public void m2_bmautRpRlw() { System.debug('Hello, World!');} public void m3_u5FDhB1cpW() { System.debug('Hello, World!');}}
