@@ -1,0 +1,1 @@
+public class ApexClass_quTobyCJPU { public void m1_EOe0ENWAPB() { System.debug('Hello, World!');} public void m2_C1L9Pk5Dyc() { System.debug('Hello, World!');} public void m3_MBcCWkXMsi() { System.debug('Hello, World!');}}
