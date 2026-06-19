@@ -1,0 +1,1 @@
+public class ApexClass_T3bTactBBZ { public void m1_W25NlnlmbP() { System.debug('Hello, World!');} public void m2_YNVCa8ER7b() { System.debug('Hello, World!');} public void m3_PQTFpDITyP() { System.debug('Hello, World!');}}
