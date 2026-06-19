@@ -1,0 +1,1 @@
+public class ApexClass_2REmgLeerf { public void m1_XpT4aYqsze() { System.debug('Hello, World!');} public void m2_cG16iey6t9() { System.debug('Hello, World!');} public void m3_IYWAJvrY67() { System.debug('Hello, World!');}}
