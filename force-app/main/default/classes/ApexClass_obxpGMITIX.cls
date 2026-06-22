@@ -1,0 +1,1 @@
+public class ApexClass_obxpGMITIX { public void m1_X0kxQYhjaY() { System.debug('Hello, World!');} public void m2_IJ6z7xxsMx() { System.debug('Hello, World!');} public void m3_mXUKZ45C57() { System.debug('Hello, World!');}}
