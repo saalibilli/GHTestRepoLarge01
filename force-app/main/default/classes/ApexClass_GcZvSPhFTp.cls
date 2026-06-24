@@ -1,0 +1,1 @@
+public class ApexClass_GcZvSPhFTp { public void m1_bjAB46o7UR() { System.debug('Hello, World!');} public void m2_Hb86p2FIGE() { System.debug('Hello, World!');} public void m3_Xijer2gg00() { System.debug('Hello, World!');}}
