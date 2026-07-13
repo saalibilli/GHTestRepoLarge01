@@ -1,0 +1,1 @@
+public class ApexClass_DWFpbonvoT { public void m1_fkhG9Cs5tg() { System.debug('Hello, World!');} public void m2_pdeqGx5OXL() { System.debug('Hello, World!');} public void m3_7za1PoIA4W() { System.debug('Hello, World!');}}
