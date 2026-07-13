@@ -1,0 +1,1 @@
+public class ApexClass_1wePApVal7 { public void m1_YaQjgBbbcM() { System.debug('Hello, World!');} public void m2_bXVXa0bhiC() { System.debug('Hello, World!');} public void m3_z2VA9jYBqh() { System.debug('Hello, World!');}}
