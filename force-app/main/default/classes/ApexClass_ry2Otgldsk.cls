@@ -1,0 +1,1 @@
+public class ApexClass_ry2Otgldsk { public void m1_td5FiFC6ZW() { System.debug('Hello, World!');} public void m2_22zgjdTYiR() { System.debug('Hello, World!');} public void m3_I71fLBcCAP() { System.debug('Hello, World!');}}
