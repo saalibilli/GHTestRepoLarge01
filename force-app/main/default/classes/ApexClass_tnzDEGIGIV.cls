@@ -1,0 +1,1 @@
+public class ApexClass_tnzDEGIGIV { public void m1_C4OpH3MVVA() { System.debug('Hello, World!');} public void m2_kVP2SJSSYp() { System.debug('Hello, World!');} public void m3_fCsFcRSlCe() { System.debug('Hello, World!');}}
