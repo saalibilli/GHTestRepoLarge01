@@ -1,0 +1,1 @@
+public class ApexClass_biNopaRQEr { public void m1_GxyoLdZ2vP() { System.debug('Hello, World!');} public void m2_DKxUCpU6Bs() { System.debug('Hello, World!');} public void m3_oj07rYARHq() { System.debug('Hello, World!');}}
