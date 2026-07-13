@@ -1,0 +1,1 @@
+public class ApexClass_9TKLmnatcp { public void m1_2vr1ovgLTj() { System.debug('Hello, World!');} public void m2_vg1ctcXzur() { System.debug('Hello, World!');} public void m3_oSyfR2tk8E() { System.debug('Hello, World!');}}
