@@ -1,0 +1,1 @@
+public class ApexClass_KoMBFAmp8c { public void m1_Mb3CMgDNAI() { System.debug('Hello, World!');} public void m2_kx24WAF58r() { System.debug('Hello, World!');} public void m3_Lt4B6tl3CI() { System.debug('Hello, World!');}}

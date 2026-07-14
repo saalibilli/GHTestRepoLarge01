@@ -1,0 +1,1 @@
+public class ApexClass_kkCOnNonGh { public void m1_vAhrYna7qY() { System.debug('Hello, World!');} public void m2_9fVMktnxS6() { System.debug('Hello, World!');} public void m3_kH22thAVfy() { System.debug('Hello, World!');}}
