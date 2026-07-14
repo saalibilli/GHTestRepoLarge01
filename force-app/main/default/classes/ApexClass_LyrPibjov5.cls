@@ -1,1 +1,0 @@
-public class ApexClass_LyrPibjov5 { public void m1_YHFfCp6kvb() { System.debug('Hello, World!');} public void m2_AombQNDDze() { System.debug('Hello, World!');} public void m3_JRwNHjSjKh() { System.debug('Hello, World!');}}

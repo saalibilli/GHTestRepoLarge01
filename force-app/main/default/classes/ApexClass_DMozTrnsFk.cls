@@ -1,1 +1,0 @@
-public class ApexClass_DMozTrnsFk { public void m1_uEAAVuqiNn() { System.debug('Hello, World!');} public void m2_JCA5nOkQMC() { System.debug('Hello, World!');} public void m3_RrtfHZmnSX() { System.debug('Hello, World!');}}
