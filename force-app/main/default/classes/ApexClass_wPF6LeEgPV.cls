@@ -1,0 +1,1 @@
+public class ApexClass_wPF6LeEgPV { public void m1_I8lCX9fRQM() { System.debug('Hello, World!');} public void m2_IQ8EPiACfL() { System.debug('Hello, World!');} public void m3_WeQWEaq9N2() { System.debug('Hello, World!');}}
