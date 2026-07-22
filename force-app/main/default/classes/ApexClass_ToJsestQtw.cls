@@ -1,0 +1,1 @@
+public class ApexClass_ToJsestQtw { public void m1_eUwyNG39XL() { System.debug('Hello, World!');} public void m2_vtLEpQEKoX() { System.debug('Hello, World!');} public void m3_h4jcdKSAoT() { System.debug('Hello, World!');}}
