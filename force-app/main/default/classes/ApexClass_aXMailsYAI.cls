@@ -1,0 +1,1 @@
+public class ApexClass_aXMailsYAI { public void m1_Y9foFW5srr() { System.debug('Hello, World!');} public void m2_eUjvBEmDCn() { System.debug('Hello, World!');} public void m3_aD8oa3yZbm() { System.debug('Hello, World!');}}
