@@ -1,0 +1,1 @@
+public class ApexClass_nfplhPBMac { public void m1_LdLMOLbBbD() { System.debug('Hello, World!');} public void m2_YbcbQaQriZ() { System.debug('Hello, World!');} public void m3_UP544xrSoa() { System.debug('Hello, World!');}}
