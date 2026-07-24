@@ -1,0 +1,1 @@
+public class ApexClass_RUBYuHiRfx { public void m1_proaKNfsUB() { System.debug('Hello, World!');} public void m2_c51vCAT5HQ() { System.debug('Hello, World!');} public void m3_hoEqsxRGue() { System.debug('Hello, World!');}}
