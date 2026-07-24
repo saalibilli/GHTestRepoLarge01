@@ -1,0 +1,1 @@
+public class ApexClass_vMaOfieSip { public void m1_7UB4Ir7wGk() { System.debug('Hello, World!');} public void m2_AsWtLlIvIj() { System.debug('Hello, World!');} public void m3_1Y4MqBRdT5() { System.debug('Hello, World!');}}
