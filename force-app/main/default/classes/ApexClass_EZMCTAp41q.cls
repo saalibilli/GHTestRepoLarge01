@@ -1,0 +1,1 @@
+public class ApexClass_EZMCTAp41q { public void m1_1ZACRaDgS0() { System.debug('Hello, World!');} public void m2_t2kdABnVXD() { System.debug('Hello, World!');} public void m3_sh3UCcEaVg() { System.debug('Hello, World!');}}
