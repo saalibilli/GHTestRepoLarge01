@@ -1,0 +1,1 @@
+public class ApexClass_rufys2Opym { public void m1_mdBHQxxKjq() { System.debug('Hello, World!');} public void m2_gkwqcx2QEh() { System.debug('Hello, World!');} public void m3_0mHgmRfVft() { System.debug('Hello, World!');}}
