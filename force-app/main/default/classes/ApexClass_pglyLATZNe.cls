@@ -1,0 +1,1 @@
+public class ApexClass_pglyLATZNe { public void m1_mFtNgomene() { System.debug('Hello, World!');} public void m2_5HrXkacQOP() { System.debug('Hello, World!');} public void m3_75Uybpvq6R() { System.debug('Hello, World!');}}
