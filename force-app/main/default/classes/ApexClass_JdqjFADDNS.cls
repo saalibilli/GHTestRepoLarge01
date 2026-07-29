@@ -1,0 +1,1 @@
+public class ApexClass_JdqjFADDNS { public void m1_Uw1u3XF9n9() { System.debug('Hello, World!');} public void m2_W2a5CFcS0o() { System.debug('Hello, World!');} public void m3_ZGy49aRZjr() { System.debug('Hello, World!');}}
