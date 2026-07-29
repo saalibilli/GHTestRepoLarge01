@@ -1,0 +1,1 @@
+public class ApexClass_csq8jiLSQl { public void m1_e611ILlHGv() { System.debug('Hello, World!');} public void m2_bUQwEX8RZj() { System.debug('Hello, World!');} public void m3_0JqkRCmWqZ() { System.debug('Hello, World!');}}
