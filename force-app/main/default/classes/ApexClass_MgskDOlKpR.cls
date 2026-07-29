@@ -1,0 +1,1 @@
+public class ApexClass_MgskDOlKpR { public void m1_sH22sdbDbo() { System.debug('Hello, World!');} public void m2_pdHSFc9yT2() { System.debug('Hello, World!');} public void m3_SC5SpK9Ue2() { System.debug('Hello, World!');}}
