@@ -1,0 +1,1 @@
+public class ApexClass_TrqCricmsr { public void m1_ysM0CE7NmB() { System.debug('Hello, World!');} public void m2_tIx8LxmOGh() { System.debug('Hello, World!');} public void m3_3mCWL1eotC() { System.debug('Hello, World!');}}
