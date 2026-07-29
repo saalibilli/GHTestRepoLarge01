@@ -1,0 +1,1 @@
+public class ApexClass_BioDK5QmpP { public void m1_zLt4O8y6WQ() { System.debug('Hello, World!');} public void m2_pr9uMOk7Z1() { System.debug('Hello, World!');} public void m3_tPhTooDdpZ() { System.debug('Hello, World!');}}
