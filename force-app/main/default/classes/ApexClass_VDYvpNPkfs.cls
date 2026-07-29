@@ -1,0 +1,1 @@
+public class ApexClass_VDYvpNPkfs { public void m1_J0m1684Q89() { System.debug('Hello, World!');} public void m2_vhdZPcu4TR() { System.debug('Hello, World!');} public void m3_1cCyh1nuNh() { System.debug('Hello, World!');}}
